@@ -87,4 +87,17 @@ In recent weeks, the City of Crystal Lake has claimed an alley within the E.E. V
 <dd> - A homeowner requests a site inspection and written determination of the alley by the City's Fire Chief/Fire Department.</dd>
 <dd> - Of concern is whether the City is pursuing a strategy which conflicts with IFC §503.4 and §A-400(E)(6), while exposing itself to damages from City residents (e.g., by impairing emergency access, by increasing homeowner insurance costs).</dd>
 
+<dt>2025-09-09</dt>
+<dd> - The City, represented by the Mayor, City Planner, and City Engineer, request and met with homeowners who made statements at City Council Meetings.</dd>
+<dd> - The City shared printed voting results of their previously mailed false dilemma regarding alley options.</dd>
+<dd> - The City verbally expressed their plan to take down the barricade in the alley.</dd>
+<dd> - The City verbally expressed their plan to host a hearing for residents to discuss the ownership and public nature of the alley.</dd>
+<dd> - The City received a printed version of the cost benefit analysis hosted in this repo. The City claimed the state of the alley was not impacting residents in any way. The City was shown the citations, found in this repo, of the alley's state and how it was negatively affecting residents.</dd>
+<dd> - The City did not provide an update on alley improvement history(requested in the 09-01 FOIA), nor did the City provide an update on the safety questions directed towards the Fire Chief on 09-04.</dd>
+
+
+<dt>2025-09-05</dt>
+<dd> - The City, takes down the barricades they installed in the alley.</dd>
+<dd> - The City did not send written notice to homeowners adjacent to the alley of their intention or motive for removing the barricades.</dd>
+
 </dl>
