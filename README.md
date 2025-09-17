@@ -96,8 +96,14 @@ In recent weeks, the City of Crystal Lake has claimed an alley within the E.E. V
 <dd> - The City did not provide an update on alley improvement history(requested in the 09-01 FOIA), nor did the City provide an update on the safety questions directed towards the Fire Chief on 09-04.</dd>
 
 
-<dt>2025-09-05</dt>
+<dt>2025-09-15</dt>
 <dd> - The City, takes down the barricades they installed in the alley.</dd>
 <dd> - The City did not send written notice to homeowners adjacent to the alley of their intention or motive for removing the barricades.</dd>
+
+<dt>2025-09-16</dt>
+<dd> - The City's Fire Chief, responds to the safety concern(documents\from_city\2025-09-16_fire_chief_response.pdf).</dd>
+<dd> - The City responds to the FOIA asking for "records in order to understand what actions led to the improvement of certain alleys in this subdivision". The documents do not provide details on this matter.</dd>
+<dd> - A second FOIA request is submitted, specifically asking for (1)City/Resident Actions that Improved Alleys East and West of Ellsworth Street, North of Sherman Street and (2)City Maintenance Records for the Alley East of Illinois Street, North of Sherman Street.</dd>
+
 
 </dl>
