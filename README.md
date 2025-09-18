@@ -97,7 +97,8 @@ In recent weeks, the City of Crystal Lake has claimed an alley within the E.E. V
 
 
 <dt>2025-09-15</dt>
-<dd> - The City, takes down the barricades they installed in the alley.</dd>
+<dd> - The City, takes down the barricades they installed at the south end of the alley, but leave the north end barricades up. No Outlet and Pavement Ends signage insalled at the south end of the alley.</dd>
+<dd>This results in the continued blockage of John K's exit when crews block his driveway on 176.</dd>
 <dd> - The City did not send written notice to homeowners adjacent to the alley of their intention or motive for removing the barricades.</dd>
 
 <dt>2025-09-16</dt>
