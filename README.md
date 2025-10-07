@@ -87,6 +87,10 @@ In recent weeks, the City of Crystal Lake has claimed an alley within the E.E. V
 <dd> - A homeowner requests a site inspection and written determination of the alley by the City's Fire Chief/Fire Department.</dd>
 <dd> - Of concern is whether the City is pursuing a strategy which conflicts with IFC §503.4 and §A-400(E)(6), while exposing itself to damages from City residents (e.g., by impairing emergency access, by increasing homeowner insurance costs).</dd>
 
+<dt>2025-09-07</dt>
+<dd> - A renter for ~10 years confirms the City used to mow the alley but ceased doing so without notice. The renter stated their lack of alley maintenance adjacent to his property is due to the City no longer maintaining the area.</dd>
+
+
 <dt>2025-09-09</dt>
 <dd> - The City, represented by the Mayor, City Planner, and City Engineer, request and met with homeowners who made statements at City Council Meetings.</dd>
 <dd> - The City shared printed voting results of their previously mailed false dilemma regarding alley options.</dd>
@@ -98,7 +102,7 @@ In recent weeks, the City of Crystal Lake has claimed an alley within the E.E. V
 
 <dt>2025-09-15</dt>
 <dd> - The City, takes down the barricades they installed at the south end of the alley, but leave the north end barricades up. No Outlet and Pavement Ends signage insalled at the south end of the alley.</dd>
-<dd>This results in the continued blockage of John K's exit when crews block his driveway on 176.</dd>
+<dd> - This results in the continued blockage of John K's exit when crews block his driveway on 176.</dd>
 <dd> - The City did not send written notice to homeowners adjacent to the alley of their intention or motive for removing the barricades.</dd>
 
 <dt>2025-09-16</dt>
@@ -106,5 +110,15 @@ In recent weeks, the City of Crystal Lake has claimed an alley within the E.E. V
 <dd> - The City responds to the FOIA asking for "records in order to understand what actions led to the improvement of certain alleys in this subdivision". The documents do not provide details on this matter.</dd>
 <dd> - A second FOIA request is submitted, specifically asking for (1)City/Resident Actions that Improved Alleys East and West of Ellsworth Street, North of Sherman Street and (2)City Maintenance Records for the Alley East of Illinois Street, North of Sherman Street.</dd>
 
+<dt>2025-09-24</dt>
+<dd> - The City responds to the second FOIA requests.</dd>
+<dd> - A work order through the Streets Division from 2009 is provided where the City was requested to continue filling in potholes in the alley as they had historically done each year.</dd>
+<dd> - Information detailing the process which led to the improvement of other alleys in the subdivision is refused because "The Specified Records are private information. Sect. 2(c-5), Sect. 7(1)(b)".</dd>
+
+<dt>2025-09-30</dt>
+<dd> - A Homeowner living on 176 for 40 years files a request through the City's Streets division to regain the ability to leave his property through the alley. Utility crews routinely block his ability to leave via 176, so he needs the alley unobstructed to exit as he always has.</dd>
+<dd> - Request 1 asks for the removal of the northern alley barricades to return the alley to its precedented state.</dd>
+<dd> - Request 2 asks for guidance on who will trim the recently overgrown vegetation that damages his car and renders the alley impassable.</dd>
+<dd> - A homeowner contacts ComEd to understand whether or not the utility company has been made aware of the City's intent to vacate the alley.</dd>
 
 </dl>
