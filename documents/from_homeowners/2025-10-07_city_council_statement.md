@@ -1,0 +1,18 @@
+Good evening, members of the Council.
+ Thank you for the opportunity to speak again and for the time several of you have already taken to meet with me and my neighbor, Mr. Gates. In that meeting, you expressed verbal support for reopening the Glen/Sherman alley based on resident voting results, and you indicated that an official hearing would be held so that residents could share their perspectives directly. I appreciate that commitment and look forward to that hearing.
+
+Tonight, I am here to seek clarity and accountability regarding the City’s recent actions — actions that continue to work against the will of the residents, make our daily lives harder, and disregard over a century of historic precedent.
+
+Fall is here, and the best of us are focused on bettering our communities through yard maintenance, brush clearing, or even taking out our recreational vehicles for a spin. Yet, for many of us along the Glen/Sherman alley, these actions are not possible this year in the way they have always been. The alley remains blocked and overgrown due to the City’s actions, blocking our access to the alley, which was previously possible for 98% of the alley’s history. The City’s decision to continue honoring one individual’s years-old phone complaint — regarding a tenant who no longer lives in our subdivision — over multiple public requests from actual homeowners has effectively stripped us of access to our properties, contrasting historic precedent. I doubt any of us here would allow the actions of one bad actor to strip us of the rights and liberties afforded to us under contract and precedent. But that’s why I’m here.
+
+My neighbor, John K and I, formally requested that the City remove the remaining barricades and allow passage again. His driveway is frequently blocked by utility trucks using the public right of way along 176, and without alley access, he is trapped multiple times per year. The City responded to our request, stating “completion,” yet no action was taken — to return the alley to its navigable state nor to advise on how either the City or residents can trim anomalous vegetation which damages vehicles passing through. The City’s response has been neither transparent, nor fair to majority opinion, nor inline with historic precedent.
+
+While the City did remove the southern barricades — a positive step — time and money was spent installing “No Outlet” signage without any notice to residents. Those signs signal a continued intent to close the northern end, directly contradicting the City’s earlier statements and the requests of affected homeowners.
+
+Even with the southern barricades removed, the alley’s current overgrowth makes it impassable. In my case alone, I’ve been unable to remove over a ton of brush from my yard because vehicle passage risks material damage. I respectfully request that the City trim the vegetation within 30 days and restore full, historic access, consistent with both resident requests and the City’s own maintenance history.
+
+I ask the Council to reflect carefully on what’s happening here. Who is the City serving — a single past phone complaint, or the collective will, formal requests, and continued statements of residents? If the City continues to disregard its commitments, block access, and allow property to deteriorate, it sends a troubling message about accountability, and the values this City chooses to uphold.
+
+I remain ready to help however I can — whether through coordinated maintenance individually or resident engagement and responsibility — but I ask that the City keep its word, uphold historic precedent, and restore the Glen/Sherman alley to an accessible public right of way.
+
+Thank you.

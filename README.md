@@ -119,6 +119,20 @@ In recent weeks, the City of Crystal Lake has claimed an alley within the E.E. V
 <dd> - A Homeowner living on 176 for 40 years files a request through the City's Streets division to regain the ability to leave his property through the alley. Utility crews routinely block his ability to leave via 176, so he needs the alley unobstructed to exit as he always has.</dd>
 <dd> - Request 1 asks for the removal of the northern alley barricades to return the alley to its precedented state.</dd>
 <dd> - Request 2 asks for guidance on who will trim the recently overgrown vegetation that damages his car and renders the alley impassable.</dd>
-<dd> - A homeowner contacts ComEd to understand whether or not the utility company has been made aware of the City's intent to vacate the alley.</dd>
+<dd> - A homeowner contacts ComEd to understand whether or not the utility company has been made aware of the City's intent to vacate the alley. No response from ComEd occurs.</dd>
+
+<dt>2025-10-07</dt>
+<dd> - Residents(including the 176 homeowner of 40 years) return to City Council to make statements requesting the City abide by historic precent(the alley is open and maintained by the City) and majority requests(multiple formal homeowner statements and requests above one single homeowner's phone call complaint) regarding the alley's entropic state.</dd>
+
+<dt>2025-10-19</dt>
+<dd> - A second request from a different homeowner is submitted to the Crystal Lake Streets Division to open the alley and detail how hazardous brush will be maintained.</dd>
+
+<dt>2025-10-20</dt>
+<dd> - "...the City will not take any action on the matter until it has been discussed formally at a City Council meeting in the future".</dd>
+
+<dt>2025-10-21</dt>
+<dd> - The City's Manager contacts one of the homeowners submitting alley requests online and at Council Meetings by phone.</dd>
+<dd> - The City Manager confirms no action can be taken regarding fulfillment of alley requests until a lawsuit between a homeowner and the City has concluded.</dd>
+<dd> - The City Manager asks for background on the homeowner's years in Crystal Lake(20), years in the E.E. Vail Subdivision(2), preference for alley paving(prefer to keep costs low and not charge the City more than it has historically cost to mow and trim), knowledge of prior maintenance(confirmation of prior City mowing from 10 year resident and historic picture to confirm), and major concerns(inability to remove brush via alley, access trailers/boats from alley, and material risk to utilities/resident safety).</dd>
 
 </dl>
