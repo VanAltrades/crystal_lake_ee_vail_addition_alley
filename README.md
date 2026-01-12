@@ -135,4 +135,8 @@ In recent weeks, the City of Crystal Lake has claimed an alley within the E.E. V
 <dd> - The City Manager confirms no action can be taken regarding fulfillment of alley requests until a lawsuit between a homeowner and the City has concluded.</dd>
 <dd> - The City Manager asks for background on the homeowner's years in Crystal Lake(20), years in the E.E. Vail Subdivision(2), preference for alley paving(prefer to keep costs low and not charge the City more than it has historically cost to mow and trim), knowledge of prior maintenance(confirmation of prior City mowing from 10 year resident and historic picture to confirm), and major concerns(inability to remove brush via alley, access trailers/boats from alley, and material risk to utilities/resident safety).</dd>
 
+<dt>2026-01-12</dt>
+<dd> - The City marks the alley maintenance request as "Completed".</dd>
+<dd> - The homeowner confirms with the City that no maintenance work was done prior to "Completed" status, provides evidence that the City actively made the alley less-navigable while the request was active, and confirms that Kendall Vegetation Services was hired only to trim powerline brush throughout the neighborhood.</dd>
+
 </dl>
