@@ -137,6 +137,6 @@ In recent weeks, the City of Crystal Lake has claimed an alley within the E.E. V
 
 <dt>2026-01-12</dt>
 <dd> - The City marks the alley maintenance request as "Completed".</dd>
-<dd> - The homeowner confirms with the City that no maintenance work was done prior to "Completed" status, provides evidence that the City actively made the alley less-navigable while the request was active, and confirms that Kendall Vegetation Services was hired only to trim powerline brush throughout the neighborhood.</dd>
+<dd> - The homeowner confirms with the City that no maintenance work was done prior to "Completed" status, provides evidence that the City actively made the alley less-navigable while the request was active, and confirms that Kendall Vegetation Services was hired by ComEd only to trim powerline brush throughout the neighborhood.</dd>
 
 </dl>
