@@ -139,4 +139,13 @@ In recent weeks, the City of Crystal Lake has claimed an alley within the E.E. V
 <dd> - The City marks the alley maintenance request as "Completed".</dd>
 <dd> - The homeowner confirms with the City that no maintenance work was done prior to "Completed" status, provides evidence that the City actively made the alley less-navigable while the request was active, and confirms that Kendall Vegetation Services was hired by ComEd only to trim powerline brush throughout the neighborhood.</dd>
 
+<dt>2026-03-21</dt>
+<dd> - A homeowner attempts to clear year old brush from his backyard using the alley. The specific plan is documented ahead of time and the procedure was recorded with video.</dd>
+<dd> - The homeowner requested alley access for this brush clearing purpose through multiple City Hall statements and Streets Division requests without any resolution or action by the city.</dd>
+<dd> - As barricades were being unfastened to exit the property before being placed back, the homeowner of 233 Illinois St harassed the homeowner using unkind language and a homophobic slur, then called the police department under a claim suspected to be "damaging city property".</dd>
+<dd> - One officer confirmed passage was allowed. The lead officer then denied passage and required the homeowner to ask another homeowner for property access to 3-point turn the vehicle and trailer around and exit the way the vehicle entered.</dd>
+
+<dt>2026-04-15</dt>
+<dd> - The City Manager calls the homeowner of 227 to send notice that the City's current lawsuit filed by another homeowner is set for a planned resolution in May of 2026.</dd>
+
 </dl>
